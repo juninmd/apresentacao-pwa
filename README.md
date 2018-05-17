@@ -4,6 +4,12 @@
 ou
 <https://goo.gl/FwwbQ1>
 
+## Dúvidas? Acesse o Slack da Fatec 
+> Criar conta https://goo.gl/HaH8D4
+
+https://fatec-franca.slack.com
+
+
 ## Código do Aplicativo
 
 https://github.com/juninmd/pwa-fatec-app
